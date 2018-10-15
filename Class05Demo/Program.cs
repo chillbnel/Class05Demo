@@ -6,7 +6,7 @@ namespace Class05Demo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
